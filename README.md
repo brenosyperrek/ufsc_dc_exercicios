@@ -1,1 +1,1 @@
-# ufsc_dc
+# Exercícios do curso de ciência de dados da UFSC
